@@ -41,17 +41,17 @@ El artículo está dividido contando con una estructura muy correcta:
 
 Otro de los puntos fundamentales para la correcta lectura y comprensión de este artículo es su brevedad. Este artículo es breve, tan solo cuenta con 11 párrafos separados en 2 tandas. 
 
-### Uso de negrita para destacar la información de relevancia
+### <a name="item3">Uso de negrita para destacar la información de relevancia</a>
 
-Existen partes del artículo como ciertos datos o palabras clave, que son destacadas dentro del contenido y estos están <a name="item3">enfatizados a través de **negrita**</a>. Por ejemplo en el párrafo de inicial vemos con claridad, que en Gijón hubo 286.637 condenas en 2018 las que un 79,3% eran hombres a través de un breve vistazo al contenido en negrita y sus alrededores:
+Existen partes del artículo como ciertos datos o palabras clave, que son destacadas dentro del contenido y estos están enfatizados a través de **negrita**. Por ejemplo en el párrafo de inicial vemos con claridad, que en Gijón hubo 286.637 condenas en 2018 las que un 79,3% eran hombres a través de un breve vistazo al contenido en negrita y sus alrededores:
 
 > En el municipio de **Gijón**, en Asturias, vive una cantidad de gente similar al número total de personas que fueron condenadas por sentencia firme en 2018: **286.637**. De la ciudad asturiana, no obstante, las cifras sólo coinciden en los totales: la estadística de condenados que publica el Instituto Nacional de Estadística (INE) revela que el **79,3%** de las penas recayeron en hombres.
 
-### Uso de enlaces y palabras clave
+### <a name="item4">Uso de enlaces</a> y palabras clave
 
 Al final del documento podemos ver las palabras clave a las que pertenece el artículo para encontrar contenido similar al respecto, lo cuál es muy útil para que el lector no se marche de la página y continúe en el sitio web del periódico.
 
-Además, <a name="item4">emplean enlaces</a> a dos contenidos:
+Además, emplean enlaces a dos contenidos:
 - [Robos y hurtos se disparan un 40% en Barcelona](https://www.elmundo.es/espana/2019/09/16/5d7e79a0fc6c834b338b46a9.html) (artículo interno del medio).
 - [Estadística de Condenados: Adultos / Estadística de Condenados: Menores
 (ECA / ECM)](https://www.ine.es/prensa/ec_am_2018.pdf)
