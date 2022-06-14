@@ -60,11 +60,11 @@ Además, <a name="item4">emplean enlaces</a> a dos contenidos:
 
 ### Negrita en contenidos muy breves
 
-Aunque previamente hablábamos de que [las negritas eran un punto fuerte](item3), podemos ver como punto débil el hecho de que esas negritas son de una sola palabra, lo que obliga a leer el contenido cercano en lugar de especificar por completo cuál es el contenido de relevancia con las frases completas.
+Aunque previamente hablábamos de que [las negritas eran un punto fuerte](#item3), podemos ver como punto débil el hecho de que esas negritas son de una sola palabra, lo que obliga a leer el contenido cercano en lugar de especificar por completo cuál es el contenido de relevancia con las frases completas.
 
 ### Enlace
 
-También hablábamos de que [un punto fuerte eran un punto fuerte](item4), pero aquí existe otro problema y es el uso de otro enlace a mayores, que reenlaza a la propia noticia, lo que a pesar de no considerarse un vínculo vacío si que resulta inapropiado, ya que no completa con información nueva y desubica al espectador.
+También hablábamos de que [un punto fuerte eran un punto fuerte](#item4), pero aquí existe otro problema y es el uso de otro enlace a mayores, que reenlaza a la propia noticia, lo que a pesar de no considerarse un vínculo vacío si que resulta inapropiado, ya que no completa con información nueva y desubica al espectador.
 
 ## Conclusiones
 
