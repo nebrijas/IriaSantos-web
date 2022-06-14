@@ -1,7 +1,7 @@
 # Cada año se condena a más delincuentes en España
 **Análisis realizado por** ***Iria Santos***
 
-[Enlace en *online* de la noticia.](https://www.elmundo.es/espana/2019/09/20/5d84a149fdddffe38d8b469a.html)
+[Enlace *online* de la noticia.](https://www.elmundo.es/espana/2019/09/20/5d84a149fdddffe38d8b469a.html)
 
 ## Puntos fuertes del artículo
 
