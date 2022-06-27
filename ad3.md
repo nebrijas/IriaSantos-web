@@ -1,3 +1,4 @@
+
 # AD3
 
 Esta es la **actividad dirigida 3**, que consiste en hacer un ejercicio de programación literaria aprovechando el código que hemos usado en programación con **Python** y dónde realizamos *web scrapping*. A continuación pongo el **código fuente**:
@@ -1330,7 +1331,7 @@ print(colored("A continuación se muestran los titulares de las páginas princip
     [1m[34mA continuación se muestran los titulares de las páginas principales del diario El País que contienen las siguientes palabras:[0m
     
 
-Posteriormente imprimimos el título del contenido, que posteriormente se seleccionará. En un primer caso sería la palabra *Feminismo* en color <span style="color:green">verde</span> y también en **negrita**. Estos elementos actuarán como subtítulos identificativos para los resultados que se obtendrán posteriormente en Python.
+Posteriormente imprimimos el título del contenido, que posteriormente se seleccionará. En un primer caso sería la palabra "Feminismo" en color <span style="color:green">verde</span> y también en **negrita**. Estos elementos actuarán como subtítulos identificativos para los resultados que se obtendrán posteriormente en Python.
 
 
 ```python
