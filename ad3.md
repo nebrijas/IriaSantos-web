@@ -628,7 +628,7 @@ type(resultados.append)
 
 
 
-Se repite el mismo proceso para las **URLs** de las subsecciones de https://elpais.com: *internacional, opinión, España, economía, sociedad, educación, clima y medio ambiente, ciencia, cultura, babelia, deportes, tecnología, gente, televisión* y *eps*. Para ello, se realiza el proceso previo de forma similar y se modifican los nombres de las variables poniéndosele números, por ejemplo, `req2` para la **URL** https://elpais.com/internacional, y así sucesivamente.
+Se repite el mismo proceso para las **URLs** de las subsecciones de https://elpais.com: internacional, opinión, España, economía, sociedad, educación, clima y medio ambiente, ciencia, cultura, babelia, deportes, tecnología, gente, televisión y eps. Para ello, se realiza el proceso previo de forma similar y se modifican los nombres de las variables poniéndosele números, por ejemplo, `req2` para la **URL** https://elpais.com/internacional, y así sucesivamente.
 
 
 ```python
@@ -1381,7 +1381,7 @@ type(str_match)
 
 
 
-Se repite de nuevo lo mismo para las palabras: *igualdad, mujeres, mujer, brecha salarial, machismo, violencia, maltrato, homicidio, género, asesinato* y *sexo*.
+Se repite de nuevo lo mismo para las palabras: igualdad, mujeres, mujer, brecha salarial, machismo, violencia, maltrato, homicidio, género, asesinato y sexo.
 
 
 ```python
