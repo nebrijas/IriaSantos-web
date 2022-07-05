@@ -636,7 +636,7 @@ Tenemos una tabla con columnas para ID, país, código de país, provincia, ciud
 
 
 ```python
-plot_rt_es = df_rt_es.set_index('Date')['Cases'].plot(title="Casos de Covid-19 en España desde 20/01/2020 hasta 29/06/2022")
+plot_rt_es = df_rt_es.set_index('Date')['Cases'].plot(title="Casos de Covid-19 en España desde 20/01/2020 hasta 05/07/2022")
 ```
 
 
@@ -903,7 +903,7 @@ df_rt_pa
 
 
 ```python
-plot_rt_pa = df_rt_pa.set_index('Date')['Cases'].plot(title="Casos de Covid-19 en Panamá desde 20/01/2020 hasta 29/06/2022")
+plot_rt_pa = df_rt_pa.set_index('Date')['Cases'].plot(title="Casos de Covid-19 en Panamá desde 20/01/2020 hasta 05/07/2022")
 ```
 
 
@@ -914,7 +914,7 @@ Añadiendo `,kind="area"` al final se pondría el gráfico de área y con `,kind
 
 
 ```python
-plot_rt_pa = df_rt_pa.set_index('Date')['Cases'].plot(title="Casos de Covid-19 en Panamá desde 20/01/2020 hasta 29/06/2022",kind="area")
+plot_rt_pa = df_rt_pa.set_index('Date')['Cases'].plot(title="Casos de Covid-19 en Panamá desde 20/01/2020 hasta 05/07/2022",kind="area")
 ```
 
 
@@ -923,7 +923,7 @@ plot_rt_pa = df_rt_pa.set_index('Date')['Cases'].plot(title="Casos de Covid-19 e
 
 
 ```python
-plot_rt_pa = df_rt_pa.set_index('Date')['Cases'].plot(title="Casos de Covid-19 en Panamá desde 20/01/2020 hasta 29/06/2022",kind="bar")
+plot_rt_pa = df_rt_pa.set_index('Date')['Cases'].plot(title="Casos de Covid-19 en Panamá desde 20/01/2020 hasta 05/07/2022",kind="bar")
 ```
 
 
