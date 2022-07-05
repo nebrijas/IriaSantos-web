@@ -11,8 +11,8 @@ Me conecto a la API https://api.covid19api.com/
 
     Requirement already satisfied: pandas in c:\users\rnasa\anaconda3\lib\site-packages (0.25.1)
     Requirement already satisfied: python-dateutil>=2.6.1 in c:\users\rnasa\anaconda3\lib\site-packages (from pandas) (2.8.0)
-    Requirement already satisfied: numpy>=1.13.3 in c:\users\rnasa\anaconda3\lib\site-packages (from pandas) (1.16.5)
     Requirement already satisfied: pytz>=2017.2 in c:\users\rnasa\anaconda3\lib\site-packages (from pandas) (2019.3)
+    Requirement already satisfied: numpy>=1.13.3 in c:\users\rnasa\anaconda3\lib\site-packages (from pandas) (1.16.5)
     Requirement already satisfied: six>=1.5 in c:\users\rnasa\anaconda3\lib\site-packages (from python-dateutil>=2.6.1->pandas) (1.12.0)
     
 
@@ -93,33 +93,33 @@ df
   <tbody>
     <tr>
       <td>0</td>
-      <td>Brazil</td>
-      <td>brazil</td>
-      <td>BR</td>
+      <td>Gibraltar</td>
+      <td>gibraltar</td>
+      <td>GI</td>
     </tr>
     <tr>
       <td>1</td>
-      <td>Bulgaria</td>
-      <td>bulgaria</td>
-      <td>BG</td>
+      <td>Oman</td>
+      <td>oman</td>
+      <td>OM</td>
     </tr>
     <tr>
       <td>2</td>
-      <td>China</td>
-      <td>china</td>
-      <td>CN</td>
+      <td>France</td>
+      <td>france</td>
+      <td>FR</td>
     </tr>
     <tr>
       <td>3</td>
-      <td>Netherlands</td>
-      <td>netherlands</td>
-      <td>NL</td>
+      <td>Jersey</td>
+      <td>jersey</td>
+      <td>JE</td>
     </tr>
     <tr>
       <td>4</td>
-      <td>Afghanistan</td>
-      <td>afghanistan</td>
-      <td>AF</td>
+      <td>Mali</td>
+      <td>mali</td>
+      <td>ML</td>
     </tr>
     <tr>
       <td>...</td>
@@ -129,33 +129,33 @@ df
     </tr>
     <tr>
       <td>243</td>
-      <td>Haiti</td>
-      <td>haiti</td>
-      <td>HT</td>
+      <td>Puerto Rico</td>
+      <td>puerto-rico</td>
+      <td>PR</td>
     </tr>
     <tr>
       <td>244</td>
-      <td>Madagascar</td>
-      <td>madagascar</td>
-      <td>MG</td>
-    </tr>
-    <tr>
-      <td>245</td>
-      <td>Montserrat</td>
-      <td>montserrat</td>
-      <td>MS</td>
-    </tr>
-    <tr>
-      <td>246</td>
       <td>Papua New Guinea</td>
       <td>papua-new-guinea</td>
       <td>PG</td>
     </tr>
     <tr>
+      <td>245</td>
+      <td>Saint Pierre and Miquelon</td>
+      <td>saint-pierre-and-miquelon</td>
+      <td>PM</td>
+    </tr>
+    <tr>
+      <td>246</td>
+      <td>Timor-Leste</td>
+      <td>timor-leste</td>
+      <td>TL</td>
+    </tr>
+    <tr>
       <td>247</td>
-      <td>US Minor Outlying Islands</td>
-      <td>us-minor-outlying-islands</td>
-      <td>UM</td>
+      <td>Montenegro</td>
+      <td>montenegro</td>
+      <td>ME</td>
     </tr>
   </tbody>
 </table>
@@ -199,7 +199,7 @@ df[df['Country'] == 'Spain']
   </thead>
   <tbody>
     <tr>
-      <td>201</td>
+      <td>141</td>
       <td>Spain</td>
       <td>spain</td>
       <td>ES</td>
@@ -337,46 +337,7 @@ df_rt_es
       <td>...</td>
     </tr>
     <tr>
-      <td>885</td>
-      <td>Spain</td>
-      <td>ES</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>40.46</td>
-      <td>-3.75</td>
-      <td>12681820</td>
-      <td>confirmed</td>
-      <td>2022-06-25 00:00:00+00:00</td>
-    </tr>
-    <tr>
-      <td>886</td>
-      <td>Spain</td>
-      <td>ES</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>40.46</td>
-      <td>-3.75</td>
-      <td>12681820</td>
-      <td>confirmed</td>
-      <td>2022-06-26 00:00:00+00:00</td>
-    </tr>
-    <tr>
-      <td>887</td>
-      <td>Spain</td>
-      <td>ES</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>40.46</td>
-      <td>-3.75</td>
-      <td>12681820</td>
-      <td>confirmed</td>
-      <td>2022-06-27 00:00:00+00:00</td>
-    </tr>
-    <tr>
-      <td>888</td>
+      <td>890</td>
       <td>Spain</td>
       <td>ES</td>
       <td></td>
@@ -386,10 +347,10 @@ df_rt_es
       <td>-3.75</td>
       <td>12734038</td>
       <td>confirmed</td>
-      <td>2022-06-28 00:00:00+00:00</td>
+      <td>2022-06-30 00:00:00+00:00</td>
     </tr>
     <tr>
-      <td>889</td>
+      <td>891</td>
       <td>Spain</td>
       <td>ES</td>
       <td></td>
@@ -397,13 +358,52 @@ df_rt_es
       <td></td>
       <td>40.46</td>
       <td>-3.75</td>
-      <td>12734038</td>
+      <td>12818184</td>
       <td>confirmed</td>
-      <td>2022-06-29 00:00:00+00:00</td>
+      <td>2022-07-01 00:00:00+00:00</td>
+    </tr>
+    <tr>
+      <td>892</td>
+      <td>Spain</td>
+      <td>ES</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>40.46</td>
+      <td>-3.75</td>
+      <td>12818184</td>
+      <td>confirmed</td>
+      <td>2022-07-02 00:00:00+00:00</td>
+    </tr>
+    <tr>
+      <td>893</td>
+      <td>Spain</td>
+      <td>ES</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>40.46</td>
+      <td>-3.75</td>
+      <td>12818184</td>
+      <td>confirmed</td>
+      <td>2022-07-03 00:00:00+00:00</td>
+    </tr>
+    <tr>
+      <td>894</td>
+      <td>Spain</td>
+      <td>ES</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>40.46</td>
+      <td>-3.75</td>
+      <td>12818184</td>
+      <td>confirmed</td>
+      <td>2022-07-04 00:00:00+00:00</td>
     </tr>
   </tbody>
 </table>
-<p>890 rows × 10 columns</p>
+<p>895 rows × 10 columns</p>
 </div>
 
 
@@ -450,46 +450,7 @@ df_rt_es.tail()
   </thead>
   <tbody>
     <tr>
-      <td>885</td>
-      <td>Spain</td>
-      <td>ES</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>40.46</td>
-      <td>-3.75</td>
-      <td>12681820</td>
-      <td>confirmed</td>
-      <td>2022-06-25 00:00:00+00:00</td>
-    </tr>
-    <tr>
-      <td>886</td>
-      <td>Spain</td>
-      <td>ES</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>40.46</td>
-      <td>-3.75</td>
-      <td>12681820</td>
-      <td>confirmed</td>
-      <td>2022-06-26 00:00:00+00:00</td>
-    </tr>
-    <tr>
-      <td>887</td>
-      <td>Spain</td>
-      <td>ES</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>40.46</td>
-      <td>-3.75</td>
-      <td>12681820</td>
-      <td>confirmed</td>
-      <td>2022-06-27 00:00:00+00:00</td>
-    </tr>
-    <tr>
-      <td>888</td>
+      <td>890</td>
       <td>Spain</td>
       <td>ES</td>
       <td></td>
@@ -499,10 +460,10 @@ df_rt_es.tail()
       <td>-3.75</td>
       <td>12734038</td>
       <td>confirmed</td>
-      <td>2022-06-28 00:00:00+00:00</td>
+      <td>2022-06-30 00:00:00+00:00</td>
     </tr>
     <tr>
-      <td>889</td>
+      <td>891</td>
       <td>Spain</td>
       <td>ES</td>
       <td></td>
@@ -510,9 +471,48 @@ df_rt_es.tail()
       <td></td>
       <td>40.46</td>
       <td>-3.75</td>
-      <td>12734038</td>
+      <td>12818184</td>
       <td>confirmed</td>
-      <td>2022-06-29 00:00:00+00:00</td>
+      <td>2022-07-01 00:00:00+00:00</td>
+    </tr>
+    <tr>
+      <td>892</td>
+      <td>Spain</td>
+      <td>ES</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>40.46</td>
+      <td>-3.75</td>
+      <td>12818184</td>
+      <td>confirmed</td>
+      <td>2022-07-02 00:00:00+00:00</td>
+    </tr>
+    <tr>
+      <td>893</td>
+      <td>Spain</td>
+      <td>ES</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>40.46</td>
+      <td>-3.75</td>
+      <td>12818184</td>
+      <td>confirmed</td>
+      <td>2022-07-03 00:00:00+00:00</td>
+    </tr>
+    <tr>
+      <td>894</td>
+      <td>Spain</td>
+      <td>ES</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>40.46</td>
+      <td>-3.75</td>
+      <td>12818184</td>
+      <td>confirmed</td>
+      <td>2022-07-04 00:00:00+00:00</td>
     </tr>
   </tbody>
 </table>
@@ -679,7 +679,7 @@ df[df['Country'] == 'Panama']
   </thead>
   <tbody>
     <tr>
-      <td>121</td>
+      <td>190</td>
       <td>Panama</td>
       <td>panama</td>
       <td>PA</td>
@@ -830,7 +830,7 @@ df_rt_pa
       <td>...</td>
     </tr>
     <tr>
-      <td>886</td>
+      <td>891</td>
       <td>Panama</td>
       <td>PA</td>
       <td></td>
@@ -838,12 +838,12 @@ df_rt_pa
       <td></td>
       <td>8.54</td>
       <td>-80.78</td>
-      <td>915057</td>
+      <td>922990</td>
       <td>confirmed</td>
-      <td>2022-06-26 00:00:00+00:00</td>
+      <td>2022-07-01 00:00:00+00:00</td>
     </tr>
     <tr>
-      <td>887</td>
+      <td>892</td>
       <td>Panama</td>
       <td>PA</td>
       <td></td>
@@ -851,12 +851,12 @@ df_rt_pa
       <td></td>
       <td>8.54</td>
       <td>-80.78</td>
-      <td>915923</td>
+      <td>922990</td>
       <td>confirmed</td>
-      <td>2022-06-27 00:00:00+00:00</td>
+      <td>2022-07-02 00:00:00+00:00</td>
     </tr>
     <tr>
-      <td>888</td>
+      <td>893</td>
       <td>Panama</td>
       <td>PA</td>
       <td></td>
@@ -864,12 +864,12 @@ df_rt_pa
       <td></td>
       <td>8.54</td>
       <td>-80.78</td>
-      <td>917912</td>
+      <td>925254</td>
       <td>confirmed</td>
-      <td>2022-06-28 00:00:00+00:00</td>
+      <td>2022-07-03 00:00:00+00:00</td>
     </tr>
     <tr>
-      <td>889</td>
+      <td>894</td>
       <td>Panama</td>
       <td>PA</td>
       <td></td>
@@ -877,12 +877,12 @@ df_rt_pa
       <td></td>
       <td>8.54</td>
       <td>-80.78</td>
-      <td>919740</td>
+      <td>925254</td>
       <td>confirmed</td>
-      <td>2022-06-29 00:00:00+00:00</td>
+      <td>2022-07-04 00:00:00+00:00</td>
     </tr>
     <tr>
-      <td>890</td>
+      <td>895</td>
       <td>Panama</td>
       <td>PA</td>
       <td></td>
@@ -890,13 +890,13 @@ df_rt_pa
       <td></td>
       <td>8.54</td>
       <td>-80.78</td>
-      <td>919740</td>
+      <td>925254</td>
       <td>confirmed</td>
-      <td>2022-06-30 00:00:00+00:00</td>
+      <td>2022-07-05 00:00:00+00:00</td>
     </tr>
   </tbody>
 </table>
-<p>891 rows × 10 columns</p>
+<p>896 rows × 10 columns</p>
 </div>
 
 
@@ -908,4 +908,24 @@ plot_rt_pa = df_rt_pa.set_index('Date')['Cases'].plot(title="Casos de Covid-19 e
 
 
 ![png](output_29_0.png)
+
+
+Añadiendo `,kind="area"` al final se pondría el gráfico de área y con `,kind="bar"` el gráfico de barras, aunque este formato no es lógico para este tipo de datos como puede visualizarse en el segundo ejemplo.
+
+
+```python
+plot_rt_pa = df_rt_pa.set_index('Date')['Cases'].plot(title="Casos de Covid-19 en Panamá desde 20/01/2020 hasta 29/06/2022",kind="area")
+```
+
+
+![png](output_31_0.png)
+
+
+
+```python
+plot_rt_pa = df_rt_pa.set_index('Date')['Cases'].plot(title="Casos de Covid-19 en Panamá desde 20/01/2020 hasta 29/06/2022",kind="bar")
+```
+
+
+![png](output_32_0.png)
 
