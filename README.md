@@ -14,7 +14,7 @@
 Durante el desarrollo de la materia he aprendido conceptos básicos relevantes a la hora de llevar a cabo visualización de datos.
 A continuación, cito lo realizado durante las distintas actividades de modo resumido y qué conceptos puedo destacar de cada una de ellas, que me podrán servir a futuro:
 
-1. Actividad dirigida 1:
+1. **Actividad dirigida 1**:
 La primera actividad ha consistido en buscar una visualización de datos y analizarla a través del uso de `Markdown`. 
 En esta actividad he aprendido el uso de este tipo de código (*Markdown*), que no conocía previamente con total soltura y que a día de hoy ya puedo emplear fácilmente.
 Para poner títulos se emplea el `#` a principio de frase si es `h1` y se continúa con el número de almuadillas pertinentes en función del número de título (hasta `h6`), es decir, si quiero poner un `h2` tendré que poner al inicio de la línea 2 almuadillas, para un `h3` serían 3 almuadillas y así sucesivamente.
@@ -27,7 +27,7 @@ Tanto para títulos como para listados entre el elemento identificador y el text
 Por último, pero no menos importante, los enlaces se identifican con el uso de `[]` para marcar la parte del texto que será enlace y posteriormente (sin espacio entre ambos) el uso de paréntesis (`()`) para identificar el enlace, que no se visualizará en el texto, pero que será al lugar que diriga clicar en el texto enlazado.
 Esta actividad la llevamos a cabo a través de GitHub. 
 
-2. Actividad dirigida 2:
+2. **Actividad dirigida 2**:
 En esta actividad hemos como convertir el contenido de GitHub a página *web* a través de la pestaña de `Ajustes` y en la opción `Páginas`. De este modo, lo que se hace en GitHub puede visualizarse como página *web*.En esta actividad hemos aprendido sobre programación literaria. ¿Qué es la program
 También hemos aprendido como emplear Git Bash. Puede verse todo lo llevado a cabo directamente en el enlace de la [Actividad dirigida 2](ad2.md).
 Gracias a esta práctica tengo varios conceptos importantes del uso de la terminal claros:
@@ -46,7 +46,7 @@ Gracias a esta práctica tengo varios conceptos importantes del uso de la termin
 - `git push` guarda los cambios en el repositorio. En caso de que queramos forzar un cambio, aunque Git Bash nos avise de que algo puede suceder (por ejemplo una reescritura) debemos añadir `--force`. 
 - `git pull` funciona en el sentido contrario para guardar los cambios del repositorio en el archivo local.
 
-3. Actividad dirigida 3:
+3. **Actividad dirigida 3**:
 En la tercera actividad hemos aprendido a realizar programación literaria. Algo que se ha añadido también en la actividad previa y que se realizado hasta el final de la materia.
 Se trata de explicar el código a través de la terminal empleando *Markdown* para el texto y, por tanto, para los códigos las <``> (una al inicio y otra al final)  para identificar palabras/líneas de código o para identificar fragmentos de código (tres al inicio y tres al final).
 También en esta actividad hemos aprendido como se usa Jupyter con documentos de Python, y como estos mismos se pueden visualizar en la *web* de GitHub descargándolos con formato de Markdown.
@@ -56,7 +56,7 @@ Para ejecutar el código o finalizar la edición de *Markdown* debemos pulsar `C
 Todo lo que se modifica en Jupyter está siendo actualizado en local, por lo tanto, hay que ir a la terminal de Git Bash para *pushear* los archivos.
 Esta actividad la hemos realizado con el código de *Web Scrapping* de una práctica llevada a cabo previamente en otra materia (Programación). Se ha llevado a cabo también una actividad voluntaria de programación literaria para otra actividad de la misma materia de otros compañeros, *El juego del Calamar*.
 
-4. Actividad dirigida 4: En esta última actividad hemos aprendido lo más 
+4. **Actividad dirigida 4**: En esta última actividad hemos aprendido lo más 
 interesante de la materia. Como recoger datos de tablas, a trabajar con 
 ellos y, sobre todo, a convertir el contenido importante de las mismas 
 en gráficas. Esto se ha llevado a cabo también con el uso de Jupyter en 
