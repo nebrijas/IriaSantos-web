@@ -17,14 +17,14 @@ A continuación, cito lo realizado durante las distintas actividades de modo res
 1. **Actividad dirigida 1**:
 La primera actividad ha consistido en buscar una visualización de datos y analizarla a través del uso de `Markdown`. 
 En esta actividad he aprendido el uso de este tipo de código (*Markdown*), que no conocía previamente con total soltura y que a día de hoy ya puedo emplear fácilmente.
-Para poner títulos se emplea el `#` a principio de frase si es `h1` y se continúa con el número de almuadillas pertinentes en función del número de título (hasta `h6`), es decir, si quiero poner un `h2` tendré que poner al inicio de la línea 2 almuadillas, para un `h3` serían 3 almuadillas y así sucesivamente.
-Para añadir cursiva hay que poner antes y después de la palabra o frase **un** asterisco(`*`). 
-Para añadir negrita hay que poner antes y después de la palabra o frase **dos** asteriscos (`**`).
-Para añadir ambos, negrita y cursiva, hay que poner antes y después de la palabra o frase **tres** asteriscos.
-Si quiero emplear una lista desordenada debo poner al inicio de cada elemento de la lista un guion (`-`).
-En el caso de que lo que quiera emplear sea una lista ordenada, en lugar del guión, emplearé el número de lista seguido de punto (`1. `)
+- Para poner títulos se emplea el `#` a principio de frase si es `h1` y se continúa con el número de almuadillas pertinentes en función del número de título (hasta `h6`), es decir, si quiero poner un `h2` tendré que poner al inicio de la línea 2 almuadillas, para un `h3` serían 3 almuadillas y así sucesivamente.
+- Para añadir cursiva hay que poner antes y después de la palabra o frase **un** asterisco(`*`). 
+- Para añadir negrita hay que poner antes y después de la palabra o frase **dos** asteriscos (`**`).
+- Para añadir ambos, negrita y cursiva, hay que poner antes y después de la palabra o frase **tres** asteriscos.
+- Si quiero emplear una lista desordenada debo poner al inicio de cada elemento de la lista un guion (`-`).
+- En el caso de que lo que quiera emplear sea una lista ordenada, en lugar del guión, emplearé el número de lista seguido de punto (`1. `)
+- Por último, pero no menos importante, los enlaces se identifican con el uso de `[]` para marcar la parte del texto que será enlace y posteriormente (sin espacio entre ambos) el uso de paréntesis (`()`) para identificar el enlace, que no se visualizará en el texto, pero que será al lugar que diriga clicar en el texto enlazado.
 Tanto para títulos como para listados entre el elemento identificador y el texto hay que dejar un espacio.
-Por último, pero no menos importante, los enlaces se identifican con el uso de `[]` para marcar la parte del texto que será enlace y posteriormente (sin espacio entre ambos) el uso de paréntesis (`()`) para identificar el enlace, que no se visualizará en el texto, pero que será al lugar que diriga clicar en el texto enlazado.
 Esta actividad la llevamos a cabo a través de GitHub. 
 
 2. **Actividad dirigida 2**:
