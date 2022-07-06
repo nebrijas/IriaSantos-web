@@ -28,7 +28,7 @@ Por último, pero no menos importante, los enlaces se identifican con el uso de 
 Esta actividad la llevamos a cabo a través de GitHub. 
 
 2. **Actividad dirigida 2**:
-En esta actividad hemos como convertir el contenido de GitHub a página *web* a través de la pestaña de `Ajustes` y en la opción `Páginas`. De este modo, lo que se hace en GitHub puede visualizarse como página *web*.En esta actividad hemos aprendido sobre programación literaria. ¿Qué es la program
+En esta actividad hemos como convertir el contenido de GitHub a página *web* a través de la pestaña de `Ajustes` y en la opción `Páginas`. De este modo, lo que se hace en GitHub puede visualizarse como página *web*.En esta actividad hemos aprendido sobre programación literaria.
 También hemos aprendido como emplear Git Bash. Puede verse todo lo llevado a cabo directamente en el enlace de la [Actividad dirigida 2](ad2.md).
 Gracias a esta práctica tengo varios conceptos importantes del uso de la terminal claros:
 - `cd` sirve para moverse de una carpeta a otra dentro de la terminal.
