@@ -22,7 +22,7 @@ En esta actividad he aprendido el uso de este tipo de código (*Markdown*), que 
 - Para añadir negrita hay que poner antes y después de la palabra o frase **dos** asteriscos (`**`).
 - Para añadir ambos, negrita y cursiva, hay que poner antes y después de la palabra o frase **tres** asteriscos.
 - Si quiero emplear una lista desordenada debo poner al inicio de cada elemento de la lista un guion (`-`).
-- En el caso de que lo que quiera emplear sea una lista ordenada, en lugar del guión, emplearé el número de lista seguido de punto (`1. `)
+- En el caso de que lo que quiera emplear sea una lista ordenada, en lugar del guión, emplearé el número de lista seguido de punto (`1.`)
 - Por último, pero no menos importante, los enlaces se identifican con el uso de `[]` para marcar la parte del texto que será enlace y posteriormente (sin espacio entre ambos) el uso de paréntesis (`()`) para identificar el enlace, que no se visualizará en el texto, pero que será al lugar que diriga clicar en el texto enlazado.
 Tanto para títulos como para listados entre el elemento identificador y el texto hay que dejar un espacio.
 Esta actividad la llevamos a cabo a través de GitHub. 
